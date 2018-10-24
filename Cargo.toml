@@ -1,5 +1,5 @@
 [package]
-name = "rs8051"
+name = "stc8-rs"
 version = "0.1.0"
 authors = ["luojia65 <me@luojia.cc>"]
 edition = "2018"
